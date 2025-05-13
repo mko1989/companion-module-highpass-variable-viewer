@@ -1,0 +1,30 @@
+{
+	"name": "variable-viewer",
+	"version": "1.0.0",
+	"description": "Displays Companion variables on an external webpage via a websocket server",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Companion Module",
+		"Variables",
+		"Display",
+		"Websocket"
+	],
+	"author": "Your Name",
+	"license": "MIT",
+	"dependencies": {
+		"@companion-module/base": "^1.8.0",
+		"socket.io-client": "^4.7.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-template-js.git"
+	},
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-template-js/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-template-js#readme"
+}

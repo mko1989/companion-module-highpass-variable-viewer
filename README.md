@@ -26,3 +26,6 @@ When adding this module in Companion, you will need to configure the following:
 ## Usage
 
 Please refer to the `HELP.md` file within this module's directory for detailed instructions on how to set up and use this module effectively with the Companion Variable Viewer application.
+
+## Link to App
+https://github.com/mko1989/companion-variable-viewer
